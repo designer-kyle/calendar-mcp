@@ -1,0 +1,30 @@
+# OAuth and credentials
+.gcp-saved-tokens.json
+gcp-oauth.keys.json
+Auth/
+credentials.json
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build
+build/
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db 
